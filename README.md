@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a book search application.
 - 📫 How to reach me: dunno, probably follow me here
 - 😄 Pronouns: he/ him
-- ⚡ Fun fact: the sun has a mass of 2 x 10³⁰ kg
+- ⚡ (Fun) fact: the sun has a mass of 2 x 10³⁰ kg
 
 <!---
 sanssource/sanssource is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
